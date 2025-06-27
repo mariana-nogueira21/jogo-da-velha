@@ -12,6 +12,8 @@ Este projeto é uma implementação do clássico **Jogo da Velha**, criado com *
 - Vence quem alinhar três símbolos na horizontal, vertical ou diagonal.
 - Se todos os espaços forem preenchidos sem um vencedor, o jogo termina em empate.
 
+**Link para jogar:** [https://mariana-nogueira21/jogo-da-velha/](https://mariana-nogueira21.github.io/jogo-da-velha/)
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
